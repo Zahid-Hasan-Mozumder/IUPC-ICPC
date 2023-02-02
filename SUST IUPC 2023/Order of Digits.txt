@@ -1,0 +1,2 @@
+Problem link: https://toph.co/p/priority-of-digits
+My solution: https://toph.co/s/1037787
